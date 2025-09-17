@@ -1,12 +1,24 @@
-## Hi there 👋
+# 🚀 OpenDev Labs
 
-<!--
+OpenDev Labs is a collective of developers building open-source tools that power the modern web.
 
-**Here are some ideas to get you started:**
+## 📦 Projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **DevToolbox** – Browser-based toolkit for debugging and testing APIs  
+- **UIForge** – Lightweight, accessible React UI components  
+- **DeployMate** – Zero-config CI/CD pipelines for frontend projects  
+
+## 🤝 Contribute
+
+We welcome community contributions!  
+Check out our [Contributing Guide](https://github.com/opendev/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/opendev/.github/blob/main/CODE_OF_CONDUCT.md)
+
+## 🌐 Links
+
+- Website: [opendevlabs.org](https://opendevlabs.org)  
+- Twitter: [@opendevlabs](https://twitter.com/opendevlabs)  
+- Discord: [Join our community](https://discord.gg/example)
+
+---
+
+© 2025 OpenDev Labs.
