@@ -18,7 +18,7 @@ Check out our [Contributing Guide](https://github.com/opendev/.github/blob/main/
 - Website: [opendevlabs.org](https://opendevlabs.org)  
 - Twitter: [@opendevlabs](https://twitter.com/opendevlabs)  
 - Discord: [Join our community](https://discord.gg/example)
-
+- 📚📊 Database Tables Docs: [Docs](https://sqldropper.github.io/data-model-ui/)
 ---
 
 © 2025 OpenDev Labs.
