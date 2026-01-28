@@ -1,6 +1,30 @@
-# 🚀 OpenDev Labs
+# 🚀 Sql Dropper
 
-OpenDev Labs is a collective of developers building open-source tools that power the modern web.
+sql dropper is a modular project for managing SQL operations.  
+It provides a flexible architecture for handling database models and authentication servers using modern Java technologies.
+
+## 📦 Project Structure
+```plaintext
+sql-dropper
+│
+├── data-model
+│   ├── jakarta.persistence-api        ![v3.1]
+│   ├── jakarta.validation-api         ![v3.1]
+│   └── jackson-annotations (optional) ![v3.1]
+│
+├── auth-server
+│   ├── spring-boot-starter-web        ![v3.2.2]
+│   ├── spring-boot-starter-security   ![v3.2.2]
+│   ├── spring-boot-starter-data-jpa   ![v3.2.2]
+│   ├── postgresql                     ![v42.6.0]
+│   └── data-model
+│
+└── pom.xml
+    ├── spring-boot-starter-web        ![v3.2.2]
+    ├── spring-boot-starter-security   ![v3.2.2]
+    ├── spring-boot-starter-data-jpa   ![v3.2.2]
+    └── postgresql                     ![v42.6.0]
+```
 
 ## 📦 Projects
 
