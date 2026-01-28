@@ -7,7 +7,12 @@ It provides a flexible architecture for handling database models and authenticat
 ```plaintext
 sql-dropper
 │
+├── parent
+│   ├── spring-boot-starter            ![v4.0.0]
+│   └── lombok                         ![auto-picked supported version]
+│
 ├── data-model
+│   ├── parent                         ![latest version]
 │   ├── jakarta.persistence-api        ![v3.1]
 │   ├── jakarta.validation-api         ![v3.1]
 │   └── jackson-annotations (optional) ![v3.1]
@@ -20,10 +25,8 @@ sql-dropper
 │   └── data-model
 │
 └── pom.xml
-    ├── spring-boot-starter-web        ![v3.2.2]
-    ├── spring-boot-starter-security   ![v3.2.2]
-    ├── spring-boot-starter-data-jpa   ![v3.2.2]
-    └── postgresql                     ![v42.6.0]
+    ├── 
+    ├── 
 ```
 
 ## 📦 Projects
