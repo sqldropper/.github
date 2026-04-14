@@ -13,9 +13,18 @@ sql-dropper
 │
 ├── data-model
 │   ├── parent                         ![latest version]
-│   ├── jakarta.persistence-api        ![v3.1]
-│   ├── jakarta.validation-api         ![v3.1]
-│   └── jackson-annotations (optional) ![v3.1]
+│   ├── spring-boot-starter-web        ![auto-picked supported version]
+│   ├── spring-boot-starter-data-jpa   ![auto-picked supported version]
+│   └── spring-boot-starter-validation ![auto-picked supported version]
+│   └── spring-boot-testcontainers     ![auto-picked supported version]
+│   └── postgresql                     ![auto-picked supported version]
+│   └── hibernate-envers               ![auto-picked supported version]
+│   └── jackson-databind               ![auto-picked supported version]
+│   └── org.testcontainers-postgresql  ![1.21.3]
+│   └── org.testcontainers-jupiter     ![1.21.3]
+│   └── spring-boot-starter-flyway     ![auto-picked supported version]
+│   └── flyway-database-postgresql     ![auto-picked supported version]
+│   └── jarchivelib                    ![1.2.0]
 │
 ├── auth-server
 │   ├── spring-boot-starter-web        ![v3.2.2]
