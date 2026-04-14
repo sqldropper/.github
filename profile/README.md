@@ -9,11 +9,11 @@ sql-dropper
 │
 ├── parent
 │   ├── spring-boot-starter            ![v4.0.0]
+│   ├── spring-boot-starter-web        ![auto-picked supported version]
 │   └── lombok                         ![auto-picked supported version]
 │
 ├── data-model
 │   ├── parent                         ![latest version]
-│   ├── spring-boot-starter-web        ![auto-picked supported version]
 │   ├── spring-boot-starter-data-jpa   ![auto-picked supported version]
 │   └── spring-boot-starter-validation ![auto-picked supported version]
 │   └── spring-boot-testcontainers     ![auto-picked supported version]
@@ -27,15 +27,11 @@ sql-dropper
 │   └── jarchivelib                    ![1.2.0]
 │
 ├── auth-server
-│   ├── spring-boot-starter-web        ![v3.2.2]
 │   ├── spring-boot-starter-security   ![v3.2.2]
 │   ├── spring-boot-starter-data-jpa   ![v3.2.2]
 │   ├── postgresql                     ![v42.6.0]
 │   └── data-model
 │
-└── pom.xml
-    ├── 
-    ├── 
 ```
 
 ## 📦 Projects
